@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 Feel free to reach me **Omar.sabouni@outlook.com**
 
-- ⚡ Fun fact **is that I love to travel**
+- ⚡  One interesting Aact about me **is that I am multilingual**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
