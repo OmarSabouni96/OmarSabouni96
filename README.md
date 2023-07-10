@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Omar Sabouni</h1>
 <h3 align="center">A passionate Full-Stack web developer</h3>
 
-- 🌱 I’m currently developing **my skills.**
+- 🌱 I’m currently Working on **my skills.**
 
 - 👨‍💻 All of my projects are available at [omarsabouni96.gethub.io](omarsabouni96.gethub.io)
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 Feel free to reach me **Omar.sabouni@outlook.com**
 
-- ⚡  One interesting Aact about me **is that I am multilingual**
+- ⚡  One interesting Fact about me **is that I am multilingual**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
