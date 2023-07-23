@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently Working on **my skills.**
 
-- 👨‍💻 All of my projects are available at [omarsabouni96.gethub.io](omarsabouni96.gethub.io)
+- 👨‍💻 All of my projects are available at [omarsabouni96.github.io](omarsabouni96.github.io/OmarSabouni/)
 
 - 📝 I regularly write articles on [https://www.mechatrogeek.com](https://www.mechatrogeek.com)
 
